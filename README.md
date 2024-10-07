@@ -12,7 +12,7 @@
 - 💬 Ask me about **C++,HTML ,CSS**
 
 - 📫 How to reach me **kinshuk380@gmail.com**
-- ⚡ Fun fact: **Currently writing bugs that look like features.**
+- ⚡ Fun fact: **Currently nothing**
 
 
 
