@@ -7,9 +7,8 @@
 
 
 
-- 🌱 I’m currently learning **C++,HTMl, CSS 
+- 🌱 I’m currently learning C++,HTML CSS,JS,JAVA,PYHTON,BOOTSTRAP,REACT JS,C.
 
-- 💬 Ask me about **C++,HTML ,CSS**
 
 - 📫 How to reach me **kinshuk380@gmail.com**
 - ⚡ Fun fact: **Currently nothing**
