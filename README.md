@@ -1,17 +1,18 @@
 ![MasterHead](https://raw.githubusercontent.com/amaan14999/amaan14999/refs/heads/main/greetings.gif)
 
 <h1 align="center">Hi 👋, I'm   Kinshuk Sanand</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate blockchain developer </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 
 
 
-- 🌱 I’m currently learning C++,HTML CSS,JS,JAVA,PYHTON,BOOTSTRAP,REACT JS,C.
+- 🌱 I’m currently learning solidity,hardhat,react.js,truffle,foundry,web3.js,ether.js
 
 
 - 📫 How to reach me **kinshuk380@gmail.com**
-- ⚡ Fun fact: **Currently nothing**
+
+  
 
 
 
