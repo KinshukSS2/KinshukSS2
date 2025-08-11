@@ -141,6 +141,56 @@
 
 <div align="center">
 
+
+## 🏆 **Achievements & Highlights**
+
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KinshukSS2&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10"/>
+</p>
+
+
+---
+
+<div align="center">
+
+## 🎯 **Current Focus**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🔗 Blockchain**
+<br>
+Building secure smart contracts
+<br>
+& DeFi protocols
+
+</td>
+<td align="center" width="33%">
+
+**🌐 Web3 Integration**
+<br>
+Creating seamless
+<br>
+dApp experiences
+
+</td>
+<td align="center" width="33%">
+
+**🚀 Open Source**
+<br>
+Contributing to blockchain
+<br>
+development tools
+
+</td>
+</tr>
+</table>
+
 ## 🚀 Fun Facts
 
 </div>
