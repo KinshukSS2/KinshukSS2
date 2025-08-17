@@ -132,7 +132,7 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinshukSS2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinshukSS2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" /> -->
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=KinshukSS2&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
