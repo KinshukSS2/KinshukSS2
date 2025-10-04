@@ -141,7 +141,10 @@
 ---
 
 <div align="center">
+  
+## 🎖️ My Holopin Badges
 
+[![An image of @kinshukss2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kinshukss2)](https://holopin.io/@kinshukss2)
 
 ## 🏆 **Achievements & Highlights**
 
