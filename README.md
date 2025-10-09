@@ -24,9 +24,18 @@
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🛠 Tech Arsenal
 
 </div>
+
+### 🧩 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,react,nodejs,mongodb,express,js,html,css,vite,python,java,c,cpp,git,github" />
+</p>
+
+---
 
 <details>
 <summary><b>🔗 Blockchain & Web3</b></summary>
@@ -43,12 +52,11 @@
 <summary><b>💻 Frontend Development</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 </details>
 
@@ -64,26 +72,11 @@
 </p>
 </details>
 
-<details>
-<summary><b>🛠 Languages & Tools</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
-</details>
-
 ---
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -101,13 +94,8 @@
 ---
 
 <div align="center">
-  
-## 🎖️ My Holopin Badges
-
-[![An image of @kinshukss2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kinshukss2)](https://holopin.io/@kinshukss2)
 
 ## 🏆 **Achievements & Highlights**
-
 </div>
 
 <p align="center">
@@ -128,7 +116,37 @@
 
 <div align="center">
 
-## 🎯 **Current Focus**
+## 🧠 3D GitHub Contribution Graph
+
+![3D GitHub Stats](./profile-3d-contrib/profile-night-green.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Daily Developer Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎧 Now Playing on Spotify
+
+[![Spotify](https://novatorem-kinshukss2.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Focus
 
 </div>
 
@@ -175,6 +193,16 @@ development tools
 - 🧩 I enjoy solving blockchain-based puzzles & challenges.  
 - ⚡ Always experimenting with **smart contract optimization**.  
 - 🌍 I believe in **building for impact**, not just code.  
+
+---
+
+<div align="center">
+
+## 🎖️ My Holopin Badges
+
+[![An image of @kinshukss2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kinshukss2)](https://holopin.io/@kinshukss2)
+
+</div>
 
 ---
 
