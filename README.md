@@ -15,10 +15,10 @@
 
 </div>
 
-💻 Passionate about building decentralized applications, smart contracts, and full-stack solutions.  
-🛠 Skilled in both blockchain ecosystems & web technologies.  
-🎯 Goal: Become a core contributor to open-source blockchain tools.  
-🧩 Hackathon enthusiast & smart contract puzzle solver.  
+ Passionate about building decentralized applications, smart contracts, and full-stack solutions.  
+ Skilled in both blockchain ecosystems & web technologies.  
+ Goal: Become a core contributor to open-source blockchain tools.  
+ Hackathon enthusiast & smart contract puzzle solver.   
 
 ---
 
