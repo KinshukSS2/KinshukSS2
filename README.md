@@ -102,25 +102,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=KinshukSS2&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10"/>
 </p>
 
----
-
-<div align="center">
-
-## 🐍 Contribution Snake Animation
-
-![snake gif](https://github.com/KinshukSS2/KinshukSS2/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 3D GitHub Contribution Graph
-
-![3D GitHub Stats](./profile-3d-contrib/profile-night-green.svg)
-
-</div>
 
 ---
 
@@ -129,16 +110,6 @@
 ## 💬 Daily Developer Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎧 Now Playing on Spotify
-
-[![Spotify](https://novatorem-kinshukss2.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
 
 </div>
 
