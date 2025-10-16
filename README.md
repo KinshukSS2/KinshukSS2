@@ -105,6 +105,17 @@
 
 ---
 
+
+<div align="center">
+
+## 🎖️ Hacktober Fest
+
+[![An image of @kinshukss2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kinshukss2)](https://holopin.io/@kinshukss2)
+
+</div>
+
+---
+
 <div align="center">
 
 ## 💬 Daily Developer Quote
@@ -164,16 +175,6 @@ development tools
 - 🧩 I enjoy solving blockchain-based puzzles & challenges.  
 - ⚡ Always experimenting with **smart contract optimization**.  
 - 🌍 I believe in **building for impact**, not just code.  
-
----
-
-<div align="center">
-
-## 🎖️ Hacktober Fest
-
-[![An image of @kinshukss2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kinshukss2)](https://holopin.io/@kinshukss2)
-
-</div>
 
 ---
 
