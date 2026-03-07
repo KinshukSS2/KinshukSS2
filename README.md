@@ -93,17 +93,6 @@
 
 ---
 
-<div align="center">
-
-## 🏆 **Achievements & Highlights**
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KinshukSS2&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10"/>
-</p>
-
-
----
 
 
 <div align="center">
