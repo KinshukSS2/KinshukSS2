@@ -161,9 +161,9 @@ development tools
 
 </div>
 
-- 🧩 I enjoy solving blockchain-based puzzles & challenges.  
+- I enjoy solving blockchain-based puzzles & challenges.  
 - ⚡ Always experimenting with **smart contract optimization**.  
-- 🌍 I believe in **building for impact**, not just code.  
+-  I believe in **building for impact**, not just code.  
 
 ---
 
