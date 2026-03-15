@@ -17,7 +17,7 @@
 
  Passionate about building decentralized applications, smart contracts, and full-stack solutions.  
  Skilled in both blockchain ecosystems & web technologies.  
- Goal: Become a core contributor to open-source blockchain tools.  
+ Goal: Become a core contributor to OSS 
  Hackathon enthusiast & smart contract puzzle solver.   
 
 ---
@@ -37,6 +37,62 @@
 
 ---
 
+
+
+<details>
+<summary><b>💻 Frontend Development</b></summary>
+<br>
+<p align="center">
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+</p>
+</details>
+
+
+<details>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br>
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-2E2E2E?style=for-the-badge&logo=express&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+</details>
+
+
+<details>
+<summary><b>⚡ DevOps & Distributed Systems</b></summary>
+<br>
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</p>
+</details>
+
 <details>
 <summary><b>🔗 Blockchain & Web3</b></summary>
 <br>
@@ -48,27 +104,17 @@
 </p>
 </details>
 
-<details>
-<summary><b>💻 Frontend Development</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-</details>
 
 <details>
-<summary><b>⚙️ Backend & Databases</b></summary>
+<summary><b>🌍 Geospatial Technologies</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-2E2E2E?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Uber H3-00AEEF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeoJSON-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
+
 </p>
 </details>
 
@@ -103,71 +149,13 @@
 
 </div>
 
----
 
-<div align="center">
-
-## 💬 Daily Developer Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ---
 
 <div align="center">
 
-## 🎯 Current Focus
 
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**🔗 Blockchain**
-<br>
-Building secure smart contracts
-<br>
-& DeFi protocols
-
-</td>
-<td align="center" width="33%">
-
-**🌐 Web3 Integration**
-<br>
-Creating seamless
-<br>
-dApp experiences
-
-</td>
-<td align="center" width="33%">
-
-**🚀 Open Source**
-<br>
-Contributing to blockchain
-<br>
-development tools
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🚀 Fun Facts
-
-</div>
-
-- I enjoy solving blockchain-based puzzles & challenges.  
-- ⚡ Always experimenting with **smart contract optimization**.  
--  I believe in **building for impact**, not just code.  
-
----
-
-<div align="center">
 
 
 
