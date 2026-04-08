@@ -196,8 +196,8 @@
 i code 
  </p>
  <p>
-#make software free & coffee :(
-  </p>
+#make software & coffee free
+ </p>
 <a href="https://www.buymeacoffee.com/musiq" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px;width:auto;" />
   </a>
