@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kinshuk%20Sanand&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kinshuk%20Sanand&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/> -->
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+Source+Contributor+%F0%9F%94%97;Full+Stack+Developer+%F0%9F%9A%80;Blockchain+Developer+%F0%9F%8C%9F" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+Source+Contributor+%F0%9F%94%97;Full+Stack+Developer+%F0%9F%9A%80;Blockchain+Developer+%F0%9F%8C%9F" alt="Typing SVG" />
 
 </div>
 
@@ -192,4 +192,4 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-</div>
+</div> -->
