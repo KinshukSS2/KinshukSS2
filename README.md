@@ -193,7 +193,13 @@
 
 </div>  -->
 <p>
+ <div>
+  
 i code 
+ </div>
+ <div>
+   currently contributing @ OSGeo
+ </div>
  </p>
  <p>
 make software & coffee free
