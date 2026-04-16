@@ -193,20 +193,24 @@
 
 </div>  -->
 <p>
- <div>
-  
-i code 
- </div>
- <div>
-   currently contributing @ OSGeo
- </div>
- </p>
- <p>
-make software & coffee free
- </p>
-<a href="https://www.buymeacoffee.com/musiq" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px;width:auto;" />
+  <div>
+    currently contributing @ OSGeo
+  </div>
+</p>
+
+<p>
+  make software & coffee free
+</p>
+
+<div style="margin-bottom: 30px;">
+  <a href="https://www.buymeacoffee.com/musiq" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+         alt="Buy Me A Coffee"
+         style="height: 60px; width: auto;" />
   </a>
-  <p>
-<img src="https://komarev.com/ghpvc/?username=KinshukSS2&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views"/>
-  </p>
+</div>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=KinshukSS2&label=Profile%20Views&color=00D9FF&style=flat"
+       alt="Profile views"/>
+</p>
