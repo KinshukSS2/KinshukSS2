@@ -193,9 +193,9 @@
 
 </div>  -->
 <p>
-  <!-- <div>
+  <div>
     currently contributing @ OSGeo
-  </div> -->
+  </div>
 </p>
 
 <p>
