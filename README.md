@@ -194,13 +194,13 @@
 </div>  -->
 <p>
   <div>
-    currently contributing @ OSGeo
+    Currently contributing to OSGeo 
   </div>
 </p>
 
 <p>
   make software & coffee free
-</p>
+</p> 
 
 <div style="margin-bottom: 30px;">
   <a href="https://www.buymeacoffee.com/musiq" target="_blank" rel="noopener noreferrer">
