@@ -192,7 +192,7 @@
 
 
 </div>  -->
-<p>
+<!-- <p>
   <div>
     Currently contributing to OSGeo 
   </div>
@@ -200,17 +200,29 @@
 
 <p>
   make software & coffee free
-</p> 
+</p>  -->
 
-<div style="margin-bottom: 30px;">
+<!-- <div style="margin-bottom: 30px;">
   <a href="https://www.buymeacoffee.com/musiq" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
          alt="Buy Me A Coffee"
          style="height: 60px; width: auto;" />
   </a>
+</div> -->
+
+<!-- <div >
+ <p href="href="https://contributionlogs.vercel.app/">
+ Contributions</p></div> -->
+
+<div>
+    <p>
+        <a href="https://contributionlogs.vercel.app/">
+            Contributions
+        </a>
+    </p>
 </div>
 
-<p>
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=KinshukSS2&label=Profile%20Views&color=00D9FF&style=flat"
        alt="Profile views"/>
-</p>
+</p> -->
