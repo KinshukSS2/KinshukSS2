@@ -219,6 +219,9 @@
         <a href="https://contributionlogs.vercel.app/">
             Contributions
         </a>
+      <a href="https://kinshukss2.github.io/GSoC-Final-Report/">
+       GSoC Final Report
+      </a>
     </p>
 </div>
 
